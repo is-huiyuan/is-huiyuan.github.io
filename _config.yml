@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Hui YUAN"
+title                    : "Hui YUAN"
 title_separator          : "-"
-name                     : &name "Dr. Hui YUAN"
+name                     : &name "Hui YUAN"
 description              : &description "Associate Professor at Shanghai International Studies University"
 url                      : https://is-huiyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
