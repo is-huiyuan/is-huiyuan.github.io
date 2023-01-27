@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beijing, Renmin University of China, 2012
+* M.S. in Beijing, Renmin University of China, 2015
+* Ph.D in Hong Kong, City University of Hong Kong, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019.08~2021.12: Assistant Professor
+  * Shanghai International Studies University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2022.01: Associate Professor
+  * Shanghai International Studies University
   
 Skills
 ======
