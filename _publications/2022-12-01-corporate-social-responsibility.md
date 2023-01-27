@@ -1,7 +1,7 @@
 ---
 title: "Corporate social responsibility and trade credit: the role of textual features"
 collection: publications
-permalink: /publication/2023-01-01-corporate-social-responsibility
+permalink: /publication/2022-12-01-corporate-social-responsibility
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023
 venue: 'Journal of Electronic Business & Digital Economics'
