@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor at SISU"
   location         : "Shanghai, China"
-  employer         :
-  pubmed           : "http://www.sbm.shisu.edu.cn/yh/list.htm"
-  googlescholar    : "hhttps://scholar.google.com/citations?user=zyomEJEAAAAJ"
+  employer         : "http://www.sbm.shisu.edu.cn/yh/list.htm"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=zyomEJEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://www.sbm.shisu.edu.cn/yh/list.htm"
   bitbucket        :
   codepen          :
   dribbble         :
