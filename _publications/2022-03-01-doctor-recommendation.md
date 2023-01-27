@@ -2,7 +2,7 @@
 title: "Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning"
 collection: publications
 permalink: /publication/2022-03-01-doctor-recommendation
-excerpt: "123"
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-03-15
 venue: 'Internet Research'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/INTR-07-2020-0379/full/html'
