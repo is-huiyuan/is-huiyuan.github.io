@@ -1,9 +1,9 @@
 ---
 title: "Corporate social responsibility and trade credit: the role of textual features"
 collection: publications
-permalink: /publication/2022-12-01-corporate-social-responsibility
+permalink: /publication/2012-12-01-corporate-social-responsibility
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+date: 2012
 venue: 'Journal of Electronic Business & Digital Economics'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/JEBDE-07-2022-0018/full/html'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
