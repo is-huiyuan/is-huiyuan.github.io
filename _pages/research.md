@@ -13,12 +13,12 @@ author_profile: true
 
 Journal Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-publication.html %}
   {% endfor %}</ul>
   
 Selected working papers
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
