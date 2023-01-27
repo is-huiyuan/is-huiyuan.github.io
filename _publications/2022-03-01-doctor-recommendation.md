@@ -1,8 +1,8 @@
 ---
 title: "Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning"
 collection: publications
-permalink: /publication/2022-03-01-doctor-recommendation.md
-excerpt: 
+permalink: /publication/2022-03-01-doctor-recommendation
+excerpt: "123"
 date: 2022-03-15
 venue: 'Internet Research'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/INTR-07-2020-0379/full/html'
