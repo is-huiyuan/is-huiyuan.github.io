@@ -8,7 +8,7 @@ title: "Teaching"
 - [Business Programming]<br>
 - [Digital Marketing]<br>
 
-### GraduateCourses
+### Graduate Courses
 - [Design Science Methodology]<br>
 - [Artificial Intelligence and Data Science]<br>
 
