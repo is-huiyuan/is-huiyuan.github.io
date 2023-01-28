@@ -19,17 +19,7 @@ author_profile: true
 * <b>H. Yuan</b>, and W. Deng. Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning, <i>Internet Research</i>, 2022, 32(2): 454-476.
 * <b>H. Yuan</b>, Y. Tang,  W. Xu, and R.Y.K. Lau, 2021, Exploring the influence of multimodal social media data on stock performance: an empirical perspective and analysis, <i>Internet Research</i>, 31(3), pp. 871-891. 
 * <b>H. Yuan</b>, W. Xu, Q. Li, and R.Y.K. Lau, 2018, Topic sentiment mining for sales performance prediction in e-commerce, <i>Annals of Operations Research</i>, 270(1-2), pp. 553-576. 
-* <b>H. Yuan</b>, R.Y.K. Lau, and W. Xu, 2016, The determinants of crowdfunding success: A semantic text analytics approach, <i>Decision Support Systems</i>, 91, pp. 67-76. 
-
-
-## Journal Publications
-======
-* B. Ma, J. He, <b>H. Yuan (Corresponding author)</b>, J. Zhang, and C. Zhang.  Corporate social responsibility and trade credit: the role of textual features, <i>Journal of Electronic Business & Digital Economics</i>, 2022, Vol. ahead-of-print No. ahead-of-print.
-* K. Yang, <b>H. Yuan (Corresponding author)</b>, and R.Y.K. Lau. PsyCredit: An interpretable deep learning-based credit assessment approach facilitated by psychometric natural language processing, <i>Expert Systems with Applications</i>, 2022, 198: 116847.
-* <b>H. Yuan</b>, and W. Deng. Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning, <i>Internet Research</i>, 2022, 32(2): 454-476.
-* <b>H. Yuan</b>, Y. Tang,  W. Xu, and R.Y.K. Lau, 2021, Exploring the influence of multimodal social media data on stock performance: an empirical perspective and analysis, <i>Internet Research</i>, 31(3), pp. 871-891. 
-* <b>H. Yuan</b>, W. Xu, Q. Li, and R.Y.K. Lau, 2018, Topic sentiment mining for sales performance prediction in e-commerce, <i>Annals of Operations Research</i>, 270(1-2), pp. 553-576. 
-* <b>H. Yuan</b>, R.Y.K. Lau, and W. Xu, 2016, The determinants of crowdfunding success: A semantic text analytics approach, <i>Decision Support Systems</i>, 91, pp. 67-76. 
+* <b>H. Yuan</b>, R.Y.K. Lau, and W. Xu, 2016, The determinants of crowdfunding success: A semantic text analytics approach, <i>Decision Support Systems</i>, 91, pp. 67-76.  
 
 
 ## Selected Conference Papers
