@@ -13,7 +13,6 @@ author_profile: true
 
 
 ## Journal Publications
-======
 * B. Ma, J. He, <b>H. Yuan (Corresponding author)</b>, J. Zhang, and C. Zhang.  Corporate social responsibility and trade credit: the role of textual features, <i>Journal of Electronic Business & Digital Economics</i>, 2022, Vol. ahead-of-print No. ahead-of-print.
 * K. Yang, <b>H. Yuan (Corresponding author)</b>, and R.Y.K. Lau. PsyCredit: An interpretable deep learning-based credit assessment approach facilitated by psychometric natural language processing, <i>Expert Systems with Applications</i>, 2022, 198: 116847.
 * <b>H. Yuan</b>, and W. Deng. Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning, <i>Internet Research</i>, 2022, 32(2): 454-476.
@@ -23,7 +22,6 @@ author_profile: true
 
 
 ## Selected Conference Papers
-======
 * W. Deng,  X. Huang, <b>H. Yuan</b>,  J. Ma,  and G. Wang, 2020. Analysis of topics, theories, and methods of information systems research in the past two decades: A knowledge graph approach, In 24th Pacific Asia Conference on Information Systems (PACIS 2020).
 * <b>H. Yuan</b>, M. Zhang, and W. Xu, 2020. Beauty is value? The impact of image presentation on hospital financial performance in a cosmetic context, In Pacific Asia Conference on Information Systems (PACIS).
 * W. Zhang, <b>H. Yuan</b>, W. Xu and R.Y.K. Lau, 2019. Hospital Reliability Evaluation in Chinese Context: A study from the decision theory perspective”, In 40th International Conference on Information Systems (ICIS).
