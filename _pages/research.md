@@ -11,20 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-Journal Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
 
-Journal Publications
+Work experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> 
+* Since 2022: Associate Professor
+  * Shanghai International Studies University
+* 2019-2021: Assistant Professor
+  * Shanghai International Studies University
 
-Selected working papers
+Education
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Ph.D in Hong Kong, City University of Hong Kong, 2019
+* M.S. in Beijing, Renmin University of China, 2015
+* B.S. in Beijing, Renmin University of China, 2012
