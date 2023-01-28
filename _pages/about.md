@@ -13,14 +13,12 @@ Dr. Yuan is an Associate Professor in School of Business and Management, Shangha
 
 
 ## Work experience
-======
 * Since 2022: Associate Professor
   * Shanghai International Studies University
 * 2019-2021: Assistant Professor
   * Shanghai International Studies University
 
 ## Education
-======
 * Ph.D in Hong Kong, <i>City University of Hong Kong</i>, 2019
 * M.S. in Beijing, <i>Renmin University of China</i>, 2015
 * B.S. in Beijing, <i>Renmin University of China</i>, 2012
