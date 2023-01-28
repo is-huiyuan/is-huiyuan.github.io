@@ -16,7 +16,13 @@ Journal Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
-  
+
+Journal Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> 
+
 Selected working papers
 ======
   <ul>{% for post in site.talks reversed %}
