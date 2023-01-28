@@ -14,7 +14,7 @@ author_profile: true
 Journal Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
   
 Selected working papers
