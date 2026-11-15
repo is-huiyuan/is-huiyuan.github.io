@@ -11,6 +11,7 @@ My research interests include social networks, big data, financial technology, a
 [Journal publications](#journal-publications) · [Selected conference papers](#selected-conference-papers)
 
 ## Journal Publications
+* <b>Hui Yuan</b> et al. Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms, <i>Journal of the Association for Information Systems</i> (JAIS). Accepted in 2026; forthcoming.
 * <b>Hui Yuan</b>, Wei Xu, Qili Wang, and Liangfei Qiu, 2025. [Does beauty truly matter? Examining the impact of beautiful images in service operations using deep learning analytics](https://doi.org/10.1177/10591478241303663), <i>Production and Operations Management</i>, 34(7), pp. 1663–1685. (UTD 24, FT 50)
 * Baojun Ma, Jingxia He, <b>Hui Yuan (Corresponding author)</b>, Jian Zhang, and Chi Zhang. [Corporate social responsibility and trade credit: the role of textual features](https://doi.org/10.1108/JEBDE-07-2022-0018), <i>Journal of Electronic Business & Digital Economics</i>, 2023, 2(1), pp. 89-109.
 * Kai Yang, <b>Hui Yuan (Corresponding author)</b>, and Raymond Lau. [PsyCredit: An interpretable deep learning-based credit assessment approach facilitated by psychometric natural language processing](https://doi.org/10.1016/j.eswa.2022.116847), <i>Expert Systems with Applications</i>, 2022, 198: 116847.
