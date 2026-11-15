@@ -5,12 +5,14 @@ permalink: /publication/2022-03-15-doctor-recommendation
 excerpt: 'Authors: <b>H. Yuan</b>, and W. Deng'
 date: 2022-03-15
 venue: 'Internet Research'
-paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/INTR-07-2020-0379/full/html'
-citation: ' '
+paperurl: 'https://doi.org/10.1108/INTR-07-2020-0379'
+share: false
 ---
 
-<a href='https://www.emerald.com/insight/content/doi/10.1108/INTR-07-2020-0379/full/html'>Download paper here</a>
+## Citation
 
-Authors: <b>H. Yuan</b>, and W. Deng
+<b>Hui Yuan</b> and Weiwei Deng. Doctor recommendation on healthcare consultation platforms: an integrated framework of knowledge graph and deep learning, <i>Internet Research</i>, 2022, 32(2): 454-476.
 
-Recommended citation:  
+[View article on the publisher’s website](https://doi.org/10.1108/INTR-07-2020-0379)
+
+[All publications]({{ '/research/' | relative_url }})

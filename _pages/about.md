@@ -1,26 +1,30 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Hui Yuan is an Associate Professor at Shanghai International Studies University, researching social networks, big data, financial technology, and business intelligence."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Yuan is an Associate Professor in School of Business and Management, Shanghai International Studies. Before joining SISU in 2019, she received her Ph.D. from City University of Hong Kong; M.S. and B.S. in Renmin University of China. Her research interests include social networks, big data, financial technology, and business intelligence. Her research has appeared in high-quality academic journals, including Production and Operations Management, Decision Support Systems, Internet Research, and Annals of Operations Research. 
+Dr. Hui Yuan (袁慧) is an Associate Professor in the School of Business and Management at Shanghai International Studies University (SISU). She joined SISU in 2019 after receiving her Ph.D. from City University of Hong Kong. She holds an M.S. and a B.S. from Renmin University of China.
 
+Her research interests include social networks, big data, financial technology, and business intelligence. Her work has appeared in *Production and Operations Management*, *Decision Support Systems*, *Expert Systems with Applications*, *Internet Research*, and *Annals of Operations Research*.
 
+See her [research and publications]({{ '/research/' | relative_url }}), [teaching]({{ '/teaching/' | relative_url }}), and [academic CV]({{ '/cv/' | relative_url }}).
 
 ## Work experience
-* Since 2022: Associate Professor
+* January 2022–present: Associate Professor
   * Shanghai International Studies University
-* 2019-2021: Assistant Professor
+* August 2019–December 2021: Assistant Professor
   * Shanghai International Studies University
 
 ## Education
-* Ph.D in Hong Kong, <i>City University of Hong Kong</i>, 2019
-* M.S. in Beijing, <i>Renmin University of China</i>, 2015
-* B.S. in Beijing, <i>Renmin University of China</i>, 2012
+* Ph.D., *City University of Hong Kong*, Hong Kong, 2019
+* M.S., *Renmin University of China*, Beijing, 2015
+* B.S., *Renmin University of China*, Beijing, 2012
 
+## Contact
 
+For academic enquiries, please email [huiyuan@shisu.edu.cn](mailto:huiyuan@shisu.edu.cn). You can also visit her [SISU faculty profile](https://sbm.shisu.edu.cn/yh/list.htm) or [Google Scholar profile]({{ site.author.googlescholar }}).

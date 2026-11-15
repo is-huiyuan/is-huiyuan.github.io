@@ -1,0 +1,17 @@
+/* Small accessibility refinements that preserve the AcademicPages layout. */
+a:focus-visible,
+button:focus-visible,
+.greedy-nav button:focus-visible {
+  outline: 2px solid #2f7f93;
+  outline-offset: 3px;
+}
+
+.greedy-nav .visible-links a[aria-current="page"]::before {
+  height: 2px;
+  transform: scaleX(1);
+}
+
+.greedy-nav .hidden-links a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 0.25em;
+}
