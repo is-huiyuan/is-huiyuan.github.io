@@ -12,8 +12,6 @@ Dr. Hui Yuan (袁慧) is an Associate Professor in the School of Business and Ma
 
 Her research interests include social networks, big data, financial technology, and business intelligence. Her work has appeared in *Production and Operations Management*, *Decision Support Systems*, *Expert Systems with Applications*, *Internet Research*, and *Annals of Operations Research*.
 
-Her paper, “Is Recommending Always a Blessing? The Impact of Recommendation Lists on Ratings in Online Review Platforms,” has been accepted for publication in *Journal of the Association for Information Systems* (JAIS).
-
 See her [research and publications]({{ '/research/' | relative_url }}), [teaching]({{ '/teaching/' | relative_url }}), and [academic CV]({{ '/cv/' | relative_url }}).
 
 ## Work experience
